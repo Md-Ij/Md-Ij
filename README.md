@@ -4,7 +4,7 @@
 ![Md:Ij Banner- 1](https://user-images.githubusercontent.com/76690419/143735787-4425d946-b829-46eb-bd97-c68b76ae2a9e.png)
 
 
-### 👩‍💻 &nbsp;A Few Thicks About Me :) 
+### 👩‍💻 &nbsp; A Few Thicks About Me :) 
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science./
@@ -12,11 +12,10 @@
 ✍️ &nbsp;In my free time, I Am Watching Cartoons and Playing Cricket Game.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at mdij455173@gmail.com! I'll try to respond as soon as I can.\
-📄<!-- &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
+<!-- &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
+### 🛠 &nbsp; Tech Stack
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -31,7 +30,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp; GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Md-Ij">
@@ -42,7 +41,7 @@
 
 
 ---
-### 🤝 &nbsp;Connect with Me Around The Web :)
+### 🤝 &nbsp; Connect with Me Around The Web :)
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
