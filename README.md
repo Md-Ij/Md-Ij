@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=2000&color=5F27CD&width=1000&height=100&lines=Hi+Friend's+Assalamu+Allaikum+%F0%9F%A5%B0;Welcome+To+Md%3AIj+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Everyone+Thank's+For+Visit+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=5F27CD&width=1024&height=120&lines=Hi+Friend's+Assalamu+Allaikum+%F0%9F%A5%B0;Welcome+To+Md%3AIj+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Everyone+Thank's+For+Visit+My+Profile!)](https://git.io/typing-svg)
 <h1 align="center">Hi, I'm Md:Ij <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
 
 ![Md:Ij Banner- 1](https://user-images.githubusercontent.com/76690419/143735787-4425d946-b829-46eb-bd97-c68b76ae2a9e.png)
