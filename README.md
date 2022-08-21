@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at mdij455173@gmail.com! I'll try to respond as soon as I can.\
 <!-- &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right"/>
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 ### 🛠 &nbsp;Tech Stack
 
