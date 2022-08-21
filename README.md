@@ -1,10 +1,10 @@
-![Aditya Vikram Singh Banner](https://cdnb.artstation.com/p/assets/images/images/003/965/097/medium/shellz-art-tomwillfixit-25.jpg?1478990906)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=5F27CD&width=500&height=65&lines=Hi+Friend's+Assalamu+Allaikum+%F0%9F%A5%B0;Welcome+To+Md%3AIj+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Everyone+Thank's+For+Visit+My+Profile!)](https://git.io/typing-svg)
+<h1 align="center">Hi, I'm Md:Ij <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Md:Ij</h2>
+![Md:Ij Banner- 1](https://user-images.githubusercontent.com/76690419/143735787-4425d946-b829-46eb-bd97-c68b76ae2a9e.png)
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### A few things about me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science./
@@ -41,8 +41,7 @@
 
 
 ---
-
-<i>🤝🏻Connect with Me around the web:</i><br>
+### 🤝 &nbsp;Connect with Me around the web:
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
